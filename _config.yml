@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+gems:             [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '[frestr ~]$'
+tagline:          'Fredrik Strupe'
+description:      'A site where I write about miscellaneous computer-related topics, and other things I find interesting. It may also function as a portfolio.'
+url:              http://frestr.github.io
+baseurl:          /
+
+author:
+  name:           'Fredrik Strupe'
+  github:         https://github.com/frestr
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
