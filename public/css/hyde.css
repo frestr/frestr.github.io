@@ -79,8 +79,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "sans-serif", serif;
-  font-size: 2.35rem;
+  font-family: "courier", serif;
+  font-size: 2.05rem;
 }
 
 /* Sidebar nav */
@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 44rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
