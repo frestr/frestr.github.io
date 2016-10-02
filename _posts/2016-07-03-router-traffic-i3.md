@@ -155,7 +155,8 @@ Then make a file named `.i3blocks.conf` in your home directory and add the follo
 
 ```
 [router traffic]
-command=echo -n 'Traffic: '; /path/to/script/router_traffic.py
+label=Traffic:
+command=/path/to/script/router_traffic.py
 interval=600
 
 # If you also want to show the current date & time, add this too
