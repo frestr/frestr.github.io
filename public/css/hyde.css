@@ -79,7 +79,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "courier", serif;
+  font-family: "Source Code Pro", serif;
+  font-weight: bold;
   font-size: 2.05rem;
 }
 
